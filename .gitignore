@@ -9,6 +9,8 @@ venv/
 ENV/
 VENV/
 
+*AUTH_GUIDE.me
+
 # Django stuff
 *.log
 *.pot
